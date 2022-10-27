@@ -1,7 +1,7 @@
 AZURE_LOCATION: 'westeurope'
 RESOURCE_NAME_PREFIX: 'npapim2'
 ENVIRONMENT_TAG: 'dev'
-DEPLOYMENT_NAME: 'ase-demo-deployment'
+DEPLOYMENT_NAME: 'np-ase-demo-deployment-02'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: 'none'
 CICD_AGENT_TYPE: 'none'
